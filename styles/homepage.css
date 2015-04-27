@@ -1,0 +1,44 @@
+body{
+	color:#666666;
+	margin-top:30px;
+	margin-left:10px;
+	margin-right:10px;
+}
+.outer_container{
+	max-width:100%;
+}
+.inner_container{
+	max-width:960px;
+	margin:0px auto;
+}
+.sharethis span
+{
+	margin-top:5px;
+	margin-bottom:5px;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+.personal{
+	font-family: 'Anonymous Pro'; 
+	color:#000000;
+	font-size: 18px;
+}
+#script h2{
+	font-family: 'Lato', sans-serif;
+	margin-bottom:0px;
+}
+.img_screenshot{
+	border:1px solid #cccccc;
+	max-width: 100%;  
+	height: auto;
+	display:block;
+	z-index:-1;
+}
+#footer{
+	margin-top:40px;
+	margin-bottom:70px;
+	text-align: center;
+	padding-left:20px;
+	padding-right:20px;
+}
